@@ -161,11 +161,11 @@
     },
     {
         "id": 21,
-        "name": "Rahim Dawood",
+        "name": "Rahim Dahood",
         "image": "img/RahimDawood.jpeg",
         "constituency": "North Imenti",
-        "twitter": "@RahimDawood",
-        "phonenumber": ""
+        "twitter": "@RahimDahood",
+        "phonenumber": "+254722513900"
     },
     {
         "id": 22,
@@ -181,7 +181,7 @@
         "image": "img/RonaldKarauri.jpeg",
         "constituency": "Kasarani",
         "twitter": "@KarauriR",
-        "phonenumber": ""
+        "phonenumber": "+254720903274"
     },
     {
         "id": 24,
