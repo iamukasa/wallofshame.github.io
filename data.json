@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Alice Nganga",
-        "image": "/img/AliceNganga.jpeg",
+        "image": "img/AliceNganga.jpeg",
         "constituency": "Constituency for Alice Nganga",
         "twitter": "@AliceNganga",
         "phonenumber": ""
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Beatrice Adagala",
-        "image": "/img/BeatriceAdagala.jpeg",
+        "image": "img/BeatriceAdagala.jpeg",
         "constituency": "Constituency for Beatrice Adagala",
         "twitter": "@BeatriceAdagala",
         "phonenumber": ""
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Catherine Wambilianga",
-        "image": "/img/CatherineWambilianga.jpeg",
+        "image": "img/CatherineWambilianga.jpeg",
         "constituency": "Constituency for Catherine Wambilianga",
         "twitter": "@CatherineWambilianga",
         "phonenumber": ""
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "David Pkosing",
-        "image": "/img/DacidPkosing.jpeg",
+        "image": "img/DacidPkosing.jpeg",
         "constituency": "Constituency for David Pkosing",
         "twitter": "@DavidPkosing",
         "phonenumber": ""
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Didmus Barasa",
-        "image": "/img/DidmusBarasa.jpeg",
+        "image": "img/DidmusBarasa.jpeg",
         "constituency": "Constituency for Didmus Barasa",
         "twitter": "@DidmusBarasa",
         "phonenumber": ""
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "Ferdinand Wanyonyi",
-        "image": "/img/FerdinandWanyonyi.jpeg",
+        "image": "img/FerdinandWanyonyi.jpeg",
         "constituency": "Constituency for Ferdinand Wanyonyi",
         "twitter": "@FerdinandWanyonyi",
         "phonenumber": ""
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "name": "Jayne Kinara",
-        "image": "/img/JayneKinara.jpeg",
+        "image": "img/JayneKinara.jpeg",
         "constituency": "Constituency for Jayne Kinara",
         "twitter": "@JayneKinara",
         "phonenumber": ""
@@ -58,7 +58,7 @@
     {
         "id": 8,
         "name": "John Kiarie",
-        "image": "/img/JohnKiarie.jpeg",
+        "image": "img/JohnKiarie.jpeg",
         "constituency": "Constituency for John Kiarie",
         "twitter": "@JohnKiarie",
         "phonenumber": ""
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "name": "John Machua",
-        "image": "/img/JohnMachua.jpeg",
+        "image": "img/JohnMachua.jpeg",
         "constituency": "Constituency for John Machua",
         "twitter": "@JohnMachua",
         "phonenumber": ""
@@ -74,7 +74,7 @@
     {
         "id": 10,
         "name": "John Paul Mwirigi",
-        "image": "/img/JohnPaulMwirigi.jpeg",
+        "image": "img/JohnPaulMwirigi.jpeg",
         "constituency": "Constituency for John Paul Mwirigi",
         "twitter": "@JohnPaulMwirigi",
         "phonenumber": ""
@@ -82,7 +82,7 @@
     {
         "id": 11,
         "name": "Kartino Kiili",
-        "image": "/img/KartinoKiili.jpeg",
+        "image": "img/KartinoKiili.jpeg",
         "constituency": "Constituency for Kartino Kiili",
         "twitter": "@KartinoKiili",
         "phonenumber": ""
@@ -90,7 +90,7 @@
     {
         "id": 12,
         "name": "Kuria Kimani",
-        "image": "/img/KuriaKimani.jpeg",
+        "image": "img/KuriaKimani.jpeg",
         "constituency": "Constituency for Kuria Kimani",
         "twitter": "@KuriaKimani",
         "phonenumber": ""
@@ -98,7 +98,7 @@
     {
         "id": 13,
         "name": "Kuria Njoroge",
-        "image": "/img/KuriaNjoroge.jpeg",
+        "image": "img/KuriaNjoroge.jpeg",
         "constituency": "Constituency for Kuria Njoroge",
         "twitter": "@KuriaNjoroge",
         "phonenumber": ""
@@ -106,7 +106,7 @@
     {
         "id": 14,
         "name": "Mark Ogolla",
-        "image": "/img/MarkOgolla.jpeg",
+        "image": "img/MarkOgolla.jpeg",
         "constituency": "Constituency for Mark Ogolla",
         "twitter": "@MarkOgolla",
         "phonenumber": ""
@@ -114,7 +114,7 @@
     {
         "id": 15,
         "name": "Mary Maingi",
-        "image": "/img/MaryMaingi.jpeg",
+        "image": "img/MaryMaingi.jpeg",
         "constituency": "Constituency for Mary Maingi",
         "twitter": "@MaryMaingi",
         "phonenumber": ""
@@ -122,7 +122,7 @@
     {
         "id": 16,
         "name": "Memusi Kanchory",
-        "image": "/img/MemusiKanchory.jpeg",
+        "image": "img/MemusiKanchory.jpeg",
         "constituency": "Constituency for Memusi Kanchory",
         "twitter": "@MemusiKanchory",
         "phonenumber": ""
@@ -130,7 +130,7 @@
     {
         "id": 17,
         "name": "Onesmus Ngogoyo",
-        "image": "/img/OnesmusNgogoyo.jpeg",
+        "image": "img/OnesmusNgogoyo.jpeg",
         "constituency": "Constituency for Onesmus Ngogoyo",
         "twitter": "@OnesmusNgogoyo",
         "phonenumber": ""
@@ -138,7 +138,7 @@
     {
         "id": 18,
         "name": "Patric Ntwiga",
-        "image": "/img/PatricNtwiga.jpeg",
+        "image": "img/PatricNtwiga.jpeg",
         "constituency": "Constituency for Patric Ntwiga",
         "twitter": "@PatricNtwiga",
         "phonenumber": ""
@@ -146,7 +146,7 @@
     {
         "id": 19,
         "name": "Peter Nabulindo",
-        "image": "/img/Peter Nabulindo.jpeg",
+        "image": "img/Peter Nabulindo.jpeg",
         "constituency": "Constituency for Peter Nabulindo",
         "twitter": "@PeterNabulindo",
         "phonenumber": ""
@@ -154,7 +154,7 @@
     {
         "id": 20,
         "name": "Rachael Nyamai",
-        "image": "/img/RachaelNyamai.jpeg",
+        "image": "img/RachaelNyamai.jpeg",
         "constituency": "Constituency for Rachael Nyamai",
         "twitter": "@RachaelNyamai",
         "phonenumber": ""
@@ -162,7 +162,7 @@
     {
         "id": 21,
         "name": "Rahim Dawood",
-        "image": "/img/RahimDawood.jpeg",
+        "image": "img/RahimDawood.jpeg",
         "constituency": "Constituency for Rahim Dawood",
         "twitter": "@RahimDawood",
         "phonenumber": ""
@@ -170,7 +170,7 @@
     {
         "id": 22,
         "name": "Rindikiri Mugambi",
-        "image": "/img/RindikiriMugambi.jpeg",
+        "image": "img/RindikiriMugambi.jpeg",
         "constituency": "Constituency for Rindikiri Mugambi",
         "twitter": "@RindikiriMugambi",
         "phonenumber": ""
@@ -178,7 +178,7 @@
     {
         "id": 23,
         "name": "Ronald Karauri",
-        "image": "/img/RonaldKarauri.jpeg",
+        "image": "img/RonaldKarauri.jpeg",
         "constituency": "Constituency for Ronald Karauri",
         "twitter": "@RonaldKarauri",
         "phonenumber": ""
@@ -186,7 +186,7 @@
     {
         "id": 24,
         "name": "Simon Kingara",
-        "image": "/img/SimonKingara.jpeg",
+        "image": "img/SimonKingara.jpeg",
         "constituency": "Constituency for Simon Kingara",
         "twitter": "@SimonKingara",
         "phonenumber": ""
@@ -194,7 +194,7 @@
     {
         "id": 25,
         "name": "Stanley Muthama",
-        "image": "/img/StanleyMuthama.jpeg",
+        "image": "img/StanleyMuthama.jpeg",
         "constituency": "Constituency for Stanley Muthama",
         "twitter": "@StanleyMuthama",
         "phonenumber": ""
@@ -202,7 +202,7 @@
     {
         "id": 26,
         "name": "Wamuratha Wanjiku",
-        "image": "/img/WamurathaWanjiku.jpeg",
+        "image": "img/WamurathaWanjiku.jpeg",
         "constituency": "Constituency for Wamuratha Wanjiku",
         "twitter": "@WamurathaWanjiku",
         "phonenumber": ""
