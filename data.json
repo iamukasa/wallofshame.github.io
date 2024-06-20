@@ -3,7 +3,7 @@
         "id": 1,
         "name": "Alice Nganga",
         "image": "img/AliceNganga.jpeg",
-        "constituency": "Constituency for Alice Nganga",
+        "constituency": "Thika Town",
         "twitter": "@AliceNganga",
         "phonenumber": ""
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "name": "Beatrice Adagala",
         "image": "img/BeatriceAdagala.jpeg",
-        "constituency": "Constituency for Beatrice Adagala",
+        "constituency": "Women Rep:Vihiga",
         "twitter": "@BeatriceAdagala",
         "phonenumber": ""
     },
@@ -19,15 +19,15 @@
         "id": 3,
         "name": "Catherine Wambilianga",
         "image": "img/CatherineWambilianga.jpeg",
-        "constituency": "Constituency for Catherine Wambilianga",
+        "constituency": "Women Rep:Bungoma",
         "twitter": "@CatherineWambilianga",
-        "phonenumber": ""
+        "phonenumber": "+254711870044"
     },
     {
         "id": 4,
         "name": "David Pkosing",
         "image": "img/DacidPkosing.jpeg",
-        "constituency": "Constituency for David Pkosing",
+        "constituency": "Pokot South",
         "twitter": "@DavidPkosing",
         "phonenumber": ""
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "name": "Didmus Barasa",
         "image": "img/DidmusBarasa.jpeg",
-        "constituency": "Constituency for Didmus Barasa",
+        "constituency": "Kimilili",
         "twitter": "@DidmusBarasa",
         "phonenumber": ""
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "name": "Ferdinand Wanyonyi",
         "image": "img/FerdinandWanyonyi.jpeg",
-        "constituency": "Constituency for Ferdinand Wanyonyi",
+        "constituency": "Kwanza",
         "twitter": "@FerdinandWanyonyi",
         "phonenumber": ""
     },
@@ -51,7 +51,7 @@
         "id": 7,
         "name": "Jayne Kinara",
         "image": "img/JayneKinara.jpeg",
-        "constituency": "Constituency for Jayne Kinara",
+        "constituency": "Naivasha",
         "twitter": "@JayneKinara",
         "phonenumber": ""
     },
@@ -59,15 +59,15 @@
         "id": 8,
         "name": "John Kiarie",
         "image": "img/JohnKiarie.jpeg",
-        "constituency": "Constituency for John Kiarie",
-        "twitter": "@JohnKiarie",
+        "constituency": "Dagoretti",
+        "twitter": "@KiarieJohn",
         "phonenumber": ""
     },
     {
         "id": 9,
         "name": "John Machua",
         "image": "img/JohnMachua.jpeg",
-        "constituency": "Constituency for John Machua",
+        "constituency": "Kiambu",
         "twitter": "@JohnMachua",
         "phonenumber": ""
     },
@@ -75,15 +75,15 @@
         "id": 10,
         "name": "John Paul Mwirigi",
         "image": "img/JohnPaulMwirigi.jpeg",
-        "constituency": "Constituency for John Paul Mwirigi",
+        "constituency": "Igembe South",
         "twitter": "@JohnPaulMwirigi",
-        "phonenumber": ""
+        "phonenumber": "+254742578781"
     },
     {
         "id": 11,
         "name": "Kartino Kiili",
         "image": "img/KartinoKiili.jpeg",
-        "constituency": "Constituency for Kartino Kiili",
+        "constituency": "Igembe Central",
         "twitter": "@KartinoKiili",
         "phonenumber": ""
     },
@@ -91,15 +91,15 @@
         "id": 12,
         "name": "Kuria Kimani",
         "image": "img/KuriaKimani.jpeg",
-        "constituency": "Constituency for Kuria Kimani",
-        "twitter": "@KuriaKimani",
-        "phonenumber": ""
+        "constituency": "Molo",
+        "twitter": "@KuriaKimaniMP",
+        "phonenumber": "+254717238845"
     },
     {
         "id": 13,
         "name": "Kuria Njoroge",
         "image": "img/KuriaNjoroge.jpeg",
-        "constituency": "Constituency for Kuria Njoroge",
+        "constituency": "Gatundu North",
         "twitter": "@KuriaNjoroge",
         "phonenumber": ""
     },
@@ -107,15 +107,15 @@
         "id": 14,
         "name": "Mark Ogolla",
         "image": "img/MarkOgolla.jpeg",
-        "constituency": "Constituency for Mark Ogolla",
-        "twitter": "@MarkOgolla",
+        "constituency": "Uriri",
+        "twitter": "@nyamita1",
         "phonenumber": ""
     },
     {
         "id": 15,
         "name": "Mary Maingi",
         "image": "img/MaryMaingi.jpeg",
-        "constituency": "Constituency for Mary Maingi",
+        "constituency": "Mwea",
         "twitter": "@MaryMaingi",
         "phonenumber": ""
     },
@@ -123,7 +123,7 @@
         "id": 16,
         "name": "Memusi Kanchory",
         "image": "img/MemusiKanchory.jpeg",
-        "constituency": "Constituency for Memusi Kanchory",
+        "constituency": "Kajiado Central",
         "twitter": "@MemusiKanchory",
         "phonenumber": ""
     },
@@ -131,7 +131,7 @@
         "id": 17,
         "name": "Onesmus Ngogoyo",
         "image": "img/OnesmusNgogoyo.jpeg",
-        "constituency": "Constituency for Onesmus Ngogoyo",
+        "constituency": "Kajiado North",
         "twitter": "@OnesmusNgogoyo",
         "phonenumber": ""
     },
@@ -139,7 +139,7 @@
         "id": 18,
         "name": "Patric Ntwiga",
         "image": "img/PatricNtwiga.jpeg",
-        "constituency": "Constituency for Patric Ntwiga",
+        "constituency": "Chuka Igambang'ombe",
         "twitter": "@PatricNtwiga",
         "phonenumber": ""
     },
@@ -147,7 +147,7 @@
         "id": 19,
         "name": "Peter Nabulindo",
         "image": "img/Peter Nabulindo.jpeg",
-        "constituency": "Constituency for Peter Nabulindo",
+        "constituency": "Matungu",
         "twitter": "@PeterNabulindo",
         "phonenumber": ""
     },
@@ -155,7 +155,7 @@
         "id": 20,
         "name": "Rachael Nyamai",
         "image": "img/RachaelNyamai.jpeg",
-        "constituency": "Constituency for Rachael Nyamai",
+        "constituency": "Kitui South",
         "twitter": "@RachaelNyamai",
         "phonenumber": ""
     },
@@ -163,7 +163,7 @@
         "id": 21,
         "name": "Rahim Dawood",
         "image": "img/RahimDawood.jpeg",
-        "constituency": "Constituency for Rahim Dawood",
+        "constituency": "North Imenti",
         "twitter": "@RahimDawood",
         "phonenumber": ""
     },
@@ -171,7 +171,7 @@
         "id": 22,
         "name": "Rindikiri Mugambi",
         "image": "img/RindikiriMugambi.jpeg",
-        "constituency": "Constituency for Rindikiri Mugambi",
+        "constituency": "Buuri",
         "twitter": "@RindikiriMugambi",
         "phonenumber": ""
     },
@@ -179,15 +179,15 @@
         "id": 23,
         "name": "Ronald Karauri",
         "image": "img/RonaldKarauri.jpeg",
-        "constituency": "Constituency for Ronald Karauri",
-        "twitter": "@RonaldKarauri",
+        "constituency": "Kasarani",
+        "twitter": "@KarauriR",
         "phonenumber": ""
     },
     {
         "id": 24,
         "name": "Simon Kingara",
         "image": "img/SimonKingara.jpeg",
-        "constituency": "Constituency for Simon Kingara",
+        "constituency": "Ruiru",
         "twitter": "@SimonKingara",
         "phonenumber": ""
     },
@@ -195,7 +195,7 @@
         "id": 25,
         "name": "Stanley Muthama",
         "image": "img/StanleyMuthama.jpeg",
-        "constituency": "Constituency for Stanley Muthama",
+        "constituency": "Lamu West",
         "twitter": "@StanleyMuthama",
         "phonenumber": "+254 702 585 702"
     },
@@ -203,8 +203,64 @@
         "id": 26,
         "name": "Wamuratha Wanjiku",
         "image": "img/WamurathaWanjiku.jpeg",
-        "constituency": "Constituency for Wamuratha Wanjiku",
+        "constituency": "Kiambu",
         "twitter": "@WamurathaWanjiku",
+        "phonenumber": ""
+    },
+    {
+        "id": 27,
+        "name": "Anne Muratha",
+        "image": "img/AnneMuratha.jpeg",
+        "constituency": "Women Rep:Kiambu",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 28,
+        "name": "Biego Paul",
+        "image": "img/BiegoPaul.jpeg",
+        "constituency": "Chesumei",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 29,
+        "name": "Christopher Aseka",
+        "image": "img/ChristopherAseka.jpeg",
+        "constituency": "Khwisero",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 30,
+        "name": "David Kirano",
+        "image": "img/DavidKirano.jpeg",
+        "constituency": "Ol Kalau",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 31,
+        "name": "Martha Wangari",
+        "image": "img/MarthaWangari.jpeg",
+        "constituency": "Gilgil",
+        "twitter": "",
+        "phonenumber": "+254720205762"
+    },
+    {
+        "id": 32,
+        "name": "RobertGichimu",
+        "image": "img/RobertGichimu.jpeg",
+        "constituency": "Gichugu",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 33,
+        "name": "Wamaua Njoroge",
+        "image": "img/WamauaNjoroge.jpeg",
+        "constituency": "Maragua",
+        "twitter": "",
         "phonenumber": ""
     }
 ]
