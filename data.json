@@ -262,5 +262,165 @@
         "constituency": "Maragua",
         "twitter": "",
         "phonenumber": ""
+    },
+    {
+        "id": 34,
+        "name": "Abubakar Talib",
+        "image": "img/AbubakarTalib.jpeg",
+        "constituency": "Nominated",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 35,
+        "name": "Adan Keynan",
+        "image": "img/AdanKeynan.jpeg",
+        "constituency": "Eldas",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id":36 ,
+        "name": "Adhe Warrio",
+        "image": "img/AdheWarrio.jpeg",
+        "constituency": "North Horr",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 37,
+        "name": "Adow Aden",
+        "image": "img/AdowAden.jpeg",
+        "constituency": "Wajir South",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 38,
+        "name": "Adullain Bashir",
+        "image": "/img/AdullainBashir.jpeg",
+        "constituency": "Mandera North",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 39,
+        "name": "Ali Abdi Ali",
+        "image": "/img/AliAbdiAli.jpeg",
+        "constituency": "Ijara",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 40,
+        "name": "Ali Abdisarat",
+        "image": "img/AliAbdisarat.jpeg",
+        "constituency": "Nominated",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 41,
+        "name": "Amina Dika",
+        "image": "img/AminaDika.jpeg",
+        "constituency": "Tana River",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 42,
+        "name": "Baro Dekow",
+        "image": "img/BaroDekow.jpeg",
+        "constituency": "Garissa",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 43,
+        "name": "Barre Hussein",
+        "image": "img/BarreHussein.jpeg",
+        "constituency": "Tarbaj",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 44,
+        "name": "Farah Maalim",
+        "image": "img/FarahMaalim.jpeg",
+        "constituency": "Dadaab",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 45,
+        "name": "Guyo Ali Wario",
+        "image": "img/GuyoAliWario.jpeg",
+        "constituency": "Garsen",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 46,
+        "name": "Haro Abdul",
+        "image": "img/HaroAbdul.jpeg",
+        "constituency": "Manderra South",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 47,
+        "name": "John Bwire",
+        "image": "img/JohnBwire.jpeg",
+        "constituency": "Taveta",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 48,
+        "name": "Kimani IChungwa",
+        "image": "img/KimaniIChungwa.jpeg",
+        "constituency": "Kikuyu",
+        "twitter": "",
+        "phonenumber": "+254722994846"
+    },
+    {
+        "id": 49,
+        "name": "Mohamed Abdikadir",
+        "image": "img/MohamedAbdikadir.jpeg",
+        "constituency": "Lagdera",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 50,
+        "name": "Sheikh Umul",
+        "image": "img/SheikhUmul.jpeg",
+        "constituency": "Mandera",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 51,
+        "name": "Suleka Hulbale",
+        "image": "img/SulekaHulbale.jpeg",
+        "constituency": "Nominated ",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 52,
+        "name": "Yakub Faran",
+        "image": "img/YakubFaran.jpeg",
+        "constituency": "Fafi",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 53,
+        "name": "Yusuf Adan Haj",
+        "image": "img/YusufAdanHaj.jpeg",
+        "constituency": "Mandera West",
+        "twitter": "",
+        "phonenumber": ""
     }
 ]
