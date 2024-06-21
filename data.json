@@ -264,50 +264,56 @@
         "phonenumber": ""
     },
     {
-        "id": 34,
+        "id": 54,
         "name": "Kipngor Reuben Kiborek",
         "image": "img/reubenKiborek.jpeg",
         "constituency": "Mogotio",
+         "business":"",
         "twitter": "",
         "phonenumber": "+254 713 406979"
     },
     {
-        "id": 35,
+        "id": 55,
         "name": "Samuel Chepkonga",
         "image":"img/SamuelChepkonga.jpeg",
         "constituency": "Ainabkoi",
+         "business":"",
         "twitter": "",
         "phonenumber": ""
     },
     {
-        "id": 36,
+        "id": 56,
         "name": "Benjamin Kipkirui",
         "image": "img/benjaminKipkirui",
         "constituency": "Ainamoi",
+         "business":"",
         "twitter": "",
         "phonenumber": ""
     },
     {
-        "id": 37,
+        "id": 57,
         "name": "Marianne Kitany",
         "image": "img/marianneKitany.png",
         "constituency": "Aldai",
+         "business":"",
         "twitter": "",
         "phonenumber": ""
     },
     {
-        "id": 38,
+        "id": 58,
         "name": "Florence Jematia",
         "image": "img/FlorenceJematia.png",
         "constituency": "Baringo",
+         "business":"",
         "twitter": "",
         "phonenumber": ""
     },
     {
-        "id": 38,
+        "id": 59,
         "name": "Joshua Kandie",
         "image": "img/JoshuaKandie.jpeg",
         "constituency": "Baringo central",
+         "business":"",
         "twitter": "",
         "phonenumber": ""
     }
