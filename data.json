@@ -181,7 +181,7 @@
     },
     {
         "id": 21,
-        "name": "Rahim Dahood",
+        "name": "Rahim Dawood",
         "image": "img/RahimDawood.jpeg",
         "constituency": "North Imenti",
         "business":"",
@@ -244,7 +244,7 @@
     },
     {
         "id": 28,
-        "name": "Biego Paul",
+        "name": "Byego Paul",
         "image": "img/BiegoPaul.jpeg",
         "constituency": "Chesumei",
         "business":"",
@@ -280,7 +280,7 @@
     },
     {
         "id": 32,
-        "name": "RobertGichimu",
+        "name": "Robert Gichimu",
         "image": "img/RobertGichimu.jpeg",
         "constituency": "Gichugu",
         "business":"",
@@ -334,7 +334,7 @@
     },
     {
         "id": 38,
-        "name": "Adullain Bashir",
+        "name": "Adullahi Bashir",
         "image": "img/AdullainBashir.jpeg",
         "constituency": "Mandera North",
         "business":"",
@@ -379,7 +379,7 @@
     },
     {
         "id": 43,
-        "name": "Barre Hussein",
+        "name": "Bare Hussein",
         "image": "img/BarreHussein.jpeg",
         "constituency": "Tarbaj",
         "business":"",
@@ -460,7 +460,7 @@
     },
     {
         "id": 52,
-        "name": "Yakub Faran",
+        "name": "Yakub Farah",
         "image": "img/YakubFaran.jpeg",
         "constituency": "Fafi",
         "business":"",
@@ -469,7 +469,7 @@
     },
     {
         "id": 53,
-        "name": "Yusuf Adan Haj",
+        "name": "Yusuf Adan Haji",
         "image": "img/YusufAdanHaj.jpeg",
         "constituency": "Mandera West",
         "business":"",
@@ -529,5 +529,1311 @@
          "business":"",
         "twitter": "",
         "phonenumber": ""
-    }
-]
+    },
+    {
+        "id": 60,
+        "name": "Kipkoros Makilap",
+        "image": "img/KipkorosMakilap.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 61,
+        "name": "Charles Kamuren",
+        "image": "img/CharlesKamuren.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 62,
+        "name": "Koech Nelson",
+        "image": "img/KoechNelson.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 63,
+        "name": "Alpha Miruka",
+        "image": "img/AlphaMiruka.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 64,
+        "name": "Linet Chepkorir",
+        "image": "img/LinetChepkorir.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 65,
+        "name": "Richard Cheruiyot",
+        "image": "img/RichardCheruiyot.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 66,
+        "name": "Yegon Richard",
+        "image": "img/YegonRichard.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 67,
+        "name": "Gideon Ochanda",
+        "image": "img/GideonOchanda.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 68,
+        "name": "Komingoi Kibet",
+        "image": "img/KomingoiKibet.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 69,
+        "name": "Kirima Nguchine",
+        "image": "img/KirimaNguchine.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 70,
+        "name": "Victor Koech",
+        "image": "img/VictorKoech.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 71,
+        "name": "Musa Sirma",
+        "image": "img/MusaSirma.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 72,
+        "name": "Jeptoo Caroline Ngelechei",
+        "image": "img/JeptooCarolineNgelechei.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 73,
+        "name": "Lelemengit Josses",
+        "image": "img/LelemengitJosses.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 74,
+        "name": "Omboko Milemba",
+        "image": "img/OmbokoMilemba.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 75,
+        "name": "Johana Ngeno",
+        "image": "img/JohanaNgeno.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 76,
+        "name": "Robert Pukose",
+        "image": "img/RobertPukose.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 77,
+        "name": "Tungule Charo Kazungu",
+        "image": "img/TunguleCharoKazungu.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 78,
+        "name": "Edward Wakili",
+        "image": "img/EdwardWakili.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 79,
+        "name": "Gabriel Kagombe",
+        "image": "img/GabrielKagombe.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 80,
+        "name": "Gimose Gumini",
+        "image": "img/GimoseGumini.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 81,
+        "name": "Julius Taitumu",
+        "image": "img/JuliusTaitumu.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 82,
+        "name": "Bernard Shinali",
+        "image": "img/BernardShinali.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 83,
+        "name": "Mumina Bonaya",
+        "image": "img/MuminaBonaya.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 84,
+        "name": "Wamacukuru James",
+        "image": "img/WamacukuruJames.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 85,
+        "name": "Titus Lotee",
+        "image": "img/TitusLotee.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 86,
+        "name": "Leah Sankaire",
+        "image": "img/LeahSankaire.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 87,
+        "name": "Sunkuiya George",
+        "image": "img/SunkuiyaGeorge.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 88,
+        "name": "Chege Njuguna",
+        "image": "img/ChegeNjuguna.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 89,
+        "name": "John Makali",
+        "image": "img/JohnMakali.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 90,
+        "name": "Peter Irungu",
+        "image": "img/PeterIrungu.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 91,
+        "name": "Fabian Kyule",
+        "image": "img/FabianKyule.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 92,
+        "name": "Moroto Samuel",
+        "image": "img/MorotoSamuel.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 93,
+        "name": "Oscar Sudi",
+        "image": "img/OscarSudi.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 94,
+        "name": "Adams Kipsanai",
+        "image": "img/AdamsKipsanai.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 95,
+        "name": "Gideon Kimaiyo",
+        "image": "img/GideonKimaiyo.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 96,
+        "name": "Beatrice Kemei",
+        "image": "img/BeatriceKemei.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 97,
+        "name": "Julius Ruto",
+        "image": "img/JuliusRuto.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 98,
+        "name": "John Kawanjiku",
+        "image": "img/JohnKawanjiku.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 99,
+        "name": "Waithaka John",
+        "image": "img/WaithakaJohn.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 100,
+        "name": "Mwengi Mutuse",
+        "image": "img/MwengiMutuse.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 101,
+        "name": "Njoroge Wainaina",
+        "image": "img/NjorogeWainaina.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 102,
+        "name": "Joseph Munyoro",
+        "image": "img/JosephMunyoro.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 103,
+        "name": "Ndindi Nyoro",
+        "image": "img/NdindiNyoro.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 104,
+        "name": "Owen Baya",
+        "image": "img/OwenBaya.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 105,
+        "name": "Gonzi Rai",
+        "image": "img/GonziRai.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 106,
+        "name": "Kwenya Thuku",
+        "image": "img/KwenyaThuku.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 107,
+        "name": "Wanjiku Muhia",
+        "image": "img/WanjikuMuhia.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 108,
+        "name": "Cherorot Joseph",
+        "image": "img/CherorotJoseph.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 109,
+        "name": "Hillary Kosgei",
+        "image": "img/HillaryKosgei.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 110,
+        "name": "Joseph Gitari",
+        "image": "img/JosephGitari.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 111,
+        "name": "Nimrod Mbai",
+        "image": "img/NimrodMbai.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 112,
+        "name": "Japheth Nyakundi",
+        "image": "img/JaphethNyakundi.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 113,
+        "name": "Yegon Richard",
+        "image": "img/YegonRichard.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 114,
+        "name": "Alfred Mutai",
+        "image": "img/AlfredMutai.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 115,
+        "name": "Joseph Tonui",
+        "image": "img/JosephTonui.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 116,
+        "name": "Kitayama Maisori",
+        "image": "img/KitayamaMaisori.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 117,
+        "name": "Mathias Robi",
+        "image": "img/MathiasRobi.jpeg",
+        "constituency": "",
+        "business": "",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 117,
+                "name": "Jane Kagiri",
+                "image": "img/JaneKagiri.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 118,
+                "name": "Mwangi Kiunjuri",
+                "image": "img/MwangiKiunjuri.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 119,
+                "name": "Sarah Korere",
+                "image": "img/SarahKorere.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 120,
+                "name": "Stephen Wachira Karani",
+                "image": "img/StephenWachiraKarani.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 121,
+                "name": "Joseph Lekuton",
+                "image": "img/JosephLekuton.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 122,
+                "name": "Muthoni Marubu",
+                "image": "img/MuthoniMarubu.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 123,
+                "name": "Ruweida Obo",
+                "image": "img/RuweidaObo.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 124,
+                "name": "Kahangara Joseph",
+                "image": "img/KahangaraJoseph.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 125,
+                "name": "John Chege Kiragu",
+                "image": "img/JohnChegeKiragu.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 126,
+                "name": "Protus Akuja",
+                "image": "img/ProtusAkuja.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 127,
+                "name": "Kareke Mbiuki",
+                "image": "img/KarekeMbiuki.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 128,
+                "name": "Caleb Mule",
+                "image": "img/CalebMule.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 129,
+                "name": " Malulu Injendi",
+                "image": "img/ MaluluInjendi.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 130,
+                "name": "David Bowen",
+                "image": "img/DavidBowen.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 131,
+                "name": "Kipchumba Toroitich",
+                "image": "img/KipchumbaToroitich.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                "id": 132,
+                "name": " Naomi Waqo",
+                "image": "img/ NaomiWaqo.jpeg",
+                "constituency": "",
+                "business": "",
+                "twitter": "",
+                "phonenumber": ""
+            },
+            {
+                    "id": 133,
+                    "name": "Kassim Sawa",
+                    "image": "img/KassimSawa.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 134,
+                    "name": "Geoffrey Kariuki",
+                    "image": "img/GeoffreyKariuki.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 135,
+                    "name": "Bernard Muriuki",
+                    "image": "img/BernardMuriuki.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 136,
+                    "name": "Elizabeth Kailemia",
+                    "image": "img/ElizabethKailemia.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 137,
+                    "name": "Bartoo Phyllis",
+                    "image": "img/BartooPhyllis.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 138,
+                    "name": "Abraham Kirwa",
+                    "image": "img/AbrahamKirwa.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 139,
+                    "name": "Feisal Bader",
+                    "image": "img/FeisalBader.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 140,
+                    "name": "Fred Kapondi",
+                    "image": "img/FredKapondi.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 141,
+                    "name": "Kaguchia John",
+                    "image": "img/KaguchiaJohn.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 142,
+                    "name": "Johnson Naicca",
+                    "image": "img/JohnsonNaicca.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 143,
+                    "name": "Betty Maina",
+                    "image": "img/BettyMaina.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 144,
+                    "name": "Musyoka Vincent",
+                    "image": "img/MusyokaVincent.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 145,
+                    "name": "Jayne Kihara",
+                    "image": "img/JayneKihara.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 146,
+                    "name": "Liza Chelule",
+                    "image": "img/LizaChelule.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 147,
+                    "name": "David Gikaria",
+                    "image": "img/DavidGikaria.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 148,
+                    "name": "Samuel Arama",
+                    "image": "img/SamuelArama.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 149,
+                    "name": "Cynthia Muge",
+                    "image": "img/CynthiaMuge.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 150,
+                    "name": "Rebecca Tonkei",
+                    "image": "img/RebeccaTonkei.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 151,
+                    "name": "Aramat Lemanken",
+                    "image": "img/AramatLemanken.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 152,
+                    "name": "Gabriel Tongoyo",
+                    "image": "img/GabrielTongoyo.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 153,
+                    "name": "Emmanuel Wangwe",
+                    "image": "img/EmmanuelWangwe.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 154,
+                    "name": "George Gachagua",
+                    "image": "img/GeorgeGachagua.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 155,
+                    "name": "GK Kariuki",
+                    "image": "img/GKKariuki.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 156,
+                    "name": "Charity Kathambi",
+                    "image": "img/CharityKathambi.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 157,
+                    "name": "Joash Nyamoko",
+                    "image": "img/JoashNyamoko.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 158,
+                    "name": "Jerusha Momanyi",
+                    "image": "img/JerushaMomanyi.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 159,
+                    "name": "Faith Gitau",
+                    "image": "img/FaithGitau.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 160,
+                    "name": "Zaheer Jhanda",
+                    "image": "img/ZaheerJhanda.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 161,
+                    "name": "Rahab Mukami",
+                    "image": "img/RahabMukami.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 162,
+                    "name": "Duncan Mathenge",
+                    "image": "img/DuncanMathenge.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 163,
+                    "name": "Michael Muchira",
+                    "image": "img/MichaelMuchira.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 164,
+                    "name": "Kiaraho David",
+                    "image": "img/KiarahoDavid.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 165,
+                    "name": "Michael Wainaina",
+                    "image": "img/MichaelWainaina.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 166,
+                    "name": "Kibet Jebor",
+                    "image": "img/KibetJebor.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 167,
+                    "name": "Mwafrika Kamande",
+                    "image": "img/MwafrikaKamande.jpeg",
+                    "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                    "id": 168,
+                    "name": "Eric Karemba",
+                    "image": "img/EricKaremba.jpeg",
+                   "constituency": "",
+                    "business": "",
+                    "twitter": "",
+                    "phonenumber": ""
+                },
+                {
+                        "id": 169,
+                        "name": "Dido Rasso",
+                        "image": "img/DidoRasso.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 170,
+                        "name": "Pauline Lenguris",
+                        "image": "img/PaulineLenguris.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 171,
+                        "name": "Lekumontare Jackson",
+                        "image": "img/LekumontareJackson.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 172,
+                        "name": "Letipila Dominic",
+                        "image": "img/LetipilaDominic.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 173,
+                        "name": "Fredrick Ikana",
+                        "image": "img/FredrickIkana.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 174,
+                        "name": "Peter Lochakapong",
+                        "image": "img/PeterLochakapong.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 175,
+                        "name": "Justice Kemei",
+                        "image": "img/JusticeKemei.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 176,
+                        "name": "John WalkWaluke",
+                        "image": "img/JohnWalkWaluke.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 177,
+                        "name": "Francis Sigei",
+                        "image": "img/FrancisSigei.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 178,
+                        "name": "Silvanus Osoro",
+                        "image": "img/SilvanusOsoro.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 179,
+                        "name": "David Kiplagat",
+                        "image": "img/DavidKiplagat.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 180,
+                        "name": "Caroli Omondi",
+                        "image": "img/CaroliOmondi.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 181,
+                        "name": "Samuel Gachobe",
+                        "image": "img/SamuelGachobe.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 182,
+                        "name": "Mary Emaase",
+                        "image": "img/MaryEmaase.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 183,
+                        "name": "George Murugara",
+                        "image": "img/GeorgeMurugara.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                   {
+                        "id": 185,
+                        "name": "William Kamket",
+                        "image": "img/WilliamKamket.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 186,
+                        "name": "Mpuru Aburi",
+                        "image": "img/MpuruAburi.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 187,
+                        "name": "John Mutunga",
+                        "image": "img/JohnMutunga.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 188,
+                        "name": "Julius Melly",
+                        "image": "img/JuliusMelly.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 189,
+                        "name": "John Chikati",
+                        "image": "img/JohnChikati.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 190,
+                        "name": "Lilian Siyoi",
+                        "image": "img/LilianSiyoi.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 191,
+                        "name": "Janet Sitienei",
+                        "image": "img/JanetSitienei.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 192,
+                        "name": "Joseph Namuar",
+                        "image": "img/JosephNamuar.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 193,
+                        "name": "Daniel Nanok",
+                        "image": "img/DanielNanok.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 194,
+                        "name": "Gladys Shollei",
+                        "image": "img/GladysShollei.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 195,
+                        "name": "Ernest Kivai Kagesi",
+                        "image": "img/ErnestKivaiKagesi.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 196,
+                        "name": "Adow Mohamed",
+                        "image": "img/AdowMohamed.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 197,
+                        "name": "Martin Pepela",
+                        "image": "img/MartinPepela.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 198,
+                        "name": "Daniel Wanyama",
+                        "image": "img/DanielWanyama.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 199,
+                        "name": "Rael Chepkemoi",
+                        "image": "img/RaelChepkemoi.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 200,
+                        "name": "Joseph Hamisi",
+                        "image": "img/JosephHamisi.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 201,
+                        "name": "Harun Suleka",
+                        "image": "img/HarunSuleka.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 202,
+                        "name": "Ikiara Dorothy",
+                        "image": "img/IkiaraDorothy.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 203,
+                        "name": "Iraya Joseph",
+                        "image": "img/IrayaJoseph.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    },
+                    {
+                        "id": 204,
+                        "name": "Eric Mwangi Kahugu",
+                        "image": "img/EricMwangiKahugu.jpeg",
+                        "constituency": "",
+                        "business": "",
+                        "twitter": "",
+                        "phonenumber": ""
+                    }
+                ]
+                
