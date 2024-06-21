@@ -335,7 +335,7 @@
     {
         "id": 38,
         "name": "Adullain Bashir",
-        "image": "/img/AdullainBashir.jpeg",
+        "image": "img/AdullainBashir.jpeg",
         "constituency": "Mandera North",
         "business":"",
         "twitter": "",
@@ -344,7 +344,7 @@
     {
         "id": 39,
         "name": "Ali Abdi Ali",
-        "image": "/img/AliAbdiAli.jpeg",
+        "image": "img/AliAbdiAli.jpeg",
         "constituency": "Ijara",
         "business":"",
         "twitter": "",
@@ -497,7 +497,7 @@
     {
         "id": 56,
         "name": "Benjamin Kipkirui",
-        "image": "img/benjaminKipkirui",
+        "image": "img/benjaminKipkirui.jpeg",
         "constituency": "Ainamoi",
          "business":"",
         "twitter": "",
