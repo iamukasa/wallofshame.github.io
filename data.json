@@ -4,6 +4,7 @@
         "name": "Alice Nganga",
         "image": "img/AliceNganga.jpeg",
         "constituency": "Thika Town",
+        "business":"",
         "twitter": "@AliceNganga",
         "phonenumber": ""
     },
@@ -12,6 +13,7 @@
         "name": "Beatrice Adagala",
         "image": "img/BeatriceAdagala.jpeg",
         "constituency": "Women Rep:Vihiga",
+        "business":"",
         "twitter": "@BeatriceAdagala",
         "phonenumber": ""
     },
@@ -20,6 +22,7 @@
         "name": "Catherine Wambilianga",
         "image": "img/CatherineWambilianga.jpeg",
         "constituency": "Women Rep:Bungoma",
+        "business":"",
         "twitter": "@CatherineWambilianga",
         "phonenumber": "+254711870044"
     },
@@ -28,6 +31,7 @@
         "name": "David Pkosing",
         "image": "img/DacidPkosing.jpeg",
         "constituency": "Pokot South",
+        "business":"",
         "twitter": "@DavidPkosing",
         "phonenumber": ""
     },
@@ -36,6 +40,7 @@
         "name": "Didmus Barasa",
         "image": "img/DidmusBarasa.jpeg",
         "constituency": "Kimilili",
+        "business":"",
         "twitter": "@DidmusBarasa",
         "phonenumber": ""
     },
@@ -44,6 +49,7 @@
         "name": "Ferdinand Wanyonyi",
         "image": "img/FerdinandWanyonyi.jpeg",
         "constituency": "Kwanza",
+        "business":"",
         "twitter": "@FerdinandWanyonyi",
         "phonenumber": ""
     },
@@ -52,6 +58,7 @@
         "name": "Jayne Kinara",
         "image": "img/JayneKinara.jpeg",
         "constituency": "Naivasha",
+        "business":"",
         "twitter": "@JayneKinara",
         "phonenumber": ""
     },
@@ -60,6 +67,7 @@
         "name": "John Kiarie",
         "image": "img/JohnKiarie.jpeg",
         "constituency": "Dagoretti",
+        "business":"",
         "twitter": "@KiarieJohn",
         "phonenumber": ""
     },
@@ -68,6 +76,7 @@
         "name": "John Machua",
         "image": "img/JohnMachua.jpeg",
         "constituency": "Kiambu",
+        "business":"",
         "twitter": "@JohnMachua",
         "phonenumber": ""
     },
@@ -76,6 +85,7 @@
         "name": "John Paul Mwirigi",
         "image": "img/JohnPaulMwirigi.jpeg",
         "constituency": "Igembe South",
+        "business":"",
         "twitter": "@JohnPaulMwirigi",
         "phonenumber": "+254742578781"
     },
@@ -84,6 +94,7 @@
         "name": "Kartino Kiili",
         "image": "img/KartinoKiili.jpeg",
         "constituency": "Igembe Central",
+        "business":"",
         "twitter": "@KartinoKiili",
         "phonenumber": ""
     },
@@ -92,6 +103,7 @@
         "name": "Kuria Kimani",
         "image": "img/KuriaKimani.jpeg",
         "constituency": "Molo",
+        "business":"",
         "twitter": "@KuriaKimaniMP",
         "phonenumber": "+254717238845"
     },
@@ -100,6 +112,7 @@
         "name": "Kuria Njoroge",
         "image": "img/KuriaNjoroge.jpeg",
         "constituency": "Gatundu North",
+        "business":"",
         "twitter": "@KuriaNjoroge",
         "phonenumber": ""
     },
@@ -108,6 +121,7 @@
         "name": "Mark Ogolla",
         "image": "img/MarkOgolla.jpeg",
         "constituency": "Uriri",
+        "business":"",
         "twitter": "@nyamita1",
         "phonenumber": ""
     },
@@ -116,6 +130,7 @@
         "name": "Mary Maingi",
         "image": "img/MaryMaingi.jpeg",
         "constituency": "Mwea",
+        "business":"",
         "twitter": "@MaryMaingi",
         "phonenumber": ""
     },
@@ -124,6 +139,7 @@
         "name": "Memusi Kanchory",
         "image": "img/MemusiKanchory.jpeg",
         "constituency": "Kajiado Central",
+        "business":"",
         "twitter": "@MemusiKanchory",
         "phonenumber": ""
     },
@@ -132,6 +148,7 @@
         "name": "Onesmus Ngogoyo",
         "image": "img/OnesmusNgogoyo.jpeg",
         "constituency": "Kajiado North",
+        "business":"",
         "twitter": "@OnesmusNgogoyo",
         "phonenumber": ""
     },
@@ -140,6 +157,7 @@
         "name": "Patric Ntwiga",
         "image": "img/PatricNtwiga.jpeg",
         "constituency": "Chuka Igambang'ombe",
+        "business":"",
         "twitter": "@PatricNtwiga",
         "phonenumber": ""
     },
@@ -148,6 +166,7 @@
         "name": "Peter Nabulindo",
         "image": "img/Peter Nabulindo.jpeg",
         "constituency": "Matungu",
+        "business":"",
         "twitter": "@PeterNabulindo",
         "phonenumber": ""
     },
@@ -156,6 +175,7 @@
         "name": "Rachael Nyamai",
         "image": "img/RachaelNyamai.jpeg",
         "constituency": "Kitui South",
+        "business":"",
         "twitter": "@RachaelNyamai",
         "phonenumber": ""
     },
@@ -164,6 +184,7 @@
         "name": "Rahim Dahood",
         "image": "img/RahimDawood.jpeg",
         "constituency": "North Imenti",
+        "business":"",
         "twitter": "@RahimDahood",
         "phonenumber": "+254722513900"
     },
@@ -172,6 +193,7 @@
         "name": "Rindikiri Mugambi",
         "image": "img/RindikiriMugambi.jpeg",
         "constituency": "Buuri",
+        "business":"",
         "twitter": "@RindikiriMugambi",
         "phonenumber": ""
     },
@@ -180,6 +202,7 @@
         "name": "Ronald Karauri",
         "image": "img/RonaldKarauri.jpeg",
         "constituency": "Kasarani",
+        "business":"",
         "twitter": "@KarauriR",
         "phonenumber": "+254720903274"
     },
@@ -188,6 +211,7 @@
         "name": "Simon Kingara",
         "image": "img/SimonKingara.jpeg",
         "constituency": "Ruiru",
+        "business":"",
         "twitter": "@SimonKingara",
         "phonenumber": ""
     },
@@ -196,6 +220,7 @@
         "name": "Stanley Muthama",
         "image": "img/StanleyMuthama.jpeg",
         "constituency": "Lamu West",
+        "business":"",
         "twitter": "@StanleyMuthama",
         "phonenumber": "+254 702 585 702"
     },
@@ -204,6 +229,7 @@
         "name": "Wamuratha Wanjiku",
         "image": "img/WamurathaWanjiku.jpeg",
         "constituency": "Kiambu",
+        "business":"",
         "twitter": "@WamurathaWanjiku",
         "phonenumber": ""
     },
@@ -212,6 +238,7 @@
         "name": "Anne Muratha",
         "image": "img/AnneMuratha.jpeg",
         "constituency": "Women Rep:Kiambu",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -220,6 +247,7 @@
         "name": "Biego Paul",
         "image": "img/BiegoPaul.jpeg",
         "constituency": "Chesumei",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -228,6 +256,7 @@
         "name": "Christopher Aseka",
         "image": "img/ChristopherAseka.jpeg",
         "constituency": "Khwisero",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -236,6 +265,7 @@
         "name": "David Kirano",
         "image": "img/DavidKirano.jpeg",
         "constituency": "Ol Kalau",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -244,6 +274,7 @@
         "name": "Martha Wangari",
         "image": "img/MarthaWangari.jpeg",
         "constituency": "Gilgil",
+        "business":"",
         "twitter": "",
         "phonenumber": "+254720205762"
     },
@@ -252,6 +283,7 @@
         "name": "RobertGichimu",
         "image": "img/RobertGichimu.jpeg",
         "constituency": "Gichugu",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -260,6 +292,7 @@
         "name": "Wamaua Njoroge",
         "image": "img/WamauaNjoroge.jpeg",
         "constituency": "Maragua",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -268,6 +301,7 @@
         "name": "Abubakar Talib",
         "image": "img/AbubakarTalib.jpeg",
         "constituency": "Nominated",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -276,6 +310,7 @@
         "name": "Adan Keynan",
         "image": "img/AdanKeynan.jpeg",
         "constituency": "Eldas",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -284,6 +319,7 @@
         "name": "Adhe Warrio",
         "image": "img/AdheWarrio.jpeg",
         "constituency": "North Horr",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -292,6 +328,7 @@
         "name": "Adow Aden",
         "image": "img/AdowAden.jpeg",
         "constituency": "Wajir South",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -300,6 +337,7 @@
         "name": "Adullain Bashir",
         "image": "/img/AdullainBashir.jpeg",
         "constituency": "Mandera North",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -308,6 +346,7 @@
         "name": "Ali Abdi Ali",
         "image": "/img/AliAbdiAli.jpeg",
         "constituency": "Ijara",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -316,6 +355,7 @@
         "name": "Ali Abdisarat",
         "image": "img/AliAbdisarat.jpeg",
         "constituency": "Nominated",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -324,6 +364,7 @@
         "name": "Amina Dika",
         "image": "img/AminaDika.jpeg",
         "constituency": "Tana River",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -332,6 +373,7 @@
         "name": "Baro Dekow",
         "image": "img/BaroDekow.jpeg",
         "constituency": "Garissa",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -340,6 +382,7 @@
         "name": "Barre Hussein",
         "image": "img/BarreHussein.jpeg",
         "constituency": "Tarbaj",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -348,6 +391,7 @@
         "name": "Farah Maalim",
         "image": "img/FarahMaalim.jpeg",
         "constituency": "Dadaab",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -356,6 +400,7 @@
         "name": "Guyo Ali Wario",
         "image": "img/GuyoAliWario.jpeg",
         "constituency": "Garsen",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -364,6 +409,7 @@
         "name": "Haro Abdul",
         "image": "img/HaroAbdul.jpeg",
         "constituency": "Manderra South",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -372,6 +418,7 @@
         "name": "John Bwire",
         "image": "img/JohnBwire.jpeg",
         "constituency": "Taveta",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -380,6 +427,7 @@
         "name": "Kimani IChungwa",
         "image": "img/KimaniIChungwa.jpeg",
         "constituency": "Kikuyu",
+        "business":"",
         "twitter": "",
         "phonenumber": "+254722994846"
     },
@@ -388,6 +436,7 @@
         "name": "Mohamed Abdikadir",
         "image": "img/MohamedAbdikadir.jpeg",
         "constituency": "Lagdera",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -396,6 +445,7 @@
         "name": "Sheikh Umul",
         "image": "img/SheikhUmul.jpeg",
         "constituency": "Mandera",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -404,6 +454,7 @@
         "name": "Suleka Hulbale",
         "image": "img/SulekaHulbale.jpeg",
         "constituency": "Nominated ",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -412,6 +463,7 @@
         "name": "Yakub Faran",
         "image": "img/YakubFaran.jpeg",
         "constituency": "Fafi",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     },
@@ -420,6 +472,7 @@
         "name": "Yusuf Adan Haj",
         "image": "img/YusufAdanHaj.jpeg",
         "constituency": "Mandera West",
+        "business":"",
         "twitter": "",
         "phonenumber": ""
     }
