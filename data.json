@@ -262,5 +262,53 @@
         "constituency": "Maragua",
         "twitter": "",
         "phonenumber": ""
+    },
+    {
+        "id": 34,
+        "name": "Kipngor Reuben Kiborek",
+        "image": "img/reubenKiborek.jpeg",
+        "constituency": "Mogotio",
+        "twitter": "",
+        "phonenumber": "+254 713 406979"
+    },
+    {
+        "id": 35,
+        "name": "Samuel Chepkonga",
+        "image":"img/SamuelChepkonga.jpeg",
+        "constituency": "Ainabkoi",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 36,
+        "name": "Benjamin Kipkirui",
+        "image": "img/benjaminKipkirui",
+        "constituency": "Ainamoi",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 37,
+        "name": "Marianne Kitany",
+        "image": "img/marianneKitany.png",
+        "constituency": "Aldai",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 38,
+        "name": "Florence Jematia",
+        "image": "img/FlorenceJematia.png",
+        "constituency": "Baringo",
+        "twitter": "",
+        "phonenumber": ""
+    },
+    {
+        "id": 38,
+        "name": "Joshua Kandie",
+        "image": "img/JoshuaKandie.jpeg",
+        "constituency": "Baringo central",
+        "twitter": "",
+        "phonenumber": ""
     }
 ]
