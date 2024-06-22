@@ -1,78 +1,139 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     <title>Wall of Shame Finance Bill 2024</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            padding: 20px;
+      @import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
+      body {
+        font-family: "Rubik", sans-serif;
+        position: relative;
+        padding-top: 100px;
+        padding: 0;
+        margin: 0;
+        overflow-x: hidden;
+      }
+      .header {
+        display: flex;
+        align-items: center;
+        top: 0;
+        left: 0;
+        width: 100%;
+        margin-bottom: 10px;
+        height: fit-content;
+        background-color: #f2f2f2;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+      }
+      .header img {
+        width: 400px;
+        z-index: 1;
+        height: 100px;
+      }
+      .header h1 {
+        display: inline-block;
+        margin: 0;
+        z-index: 0;
+        margin-left: -50px;
+        font-size: 40px;
+        color: #333;
+      }
+      .content {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 20px;
+      }
+      .card {
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        margin: 10px;
+        padding: 20px;
+        width: 200px;
+        text-align: center;
+      }
+      .card img {
+        width: 100%;
+        height: auto;
+        border-radius: 5px;
+      }
+      .button {
+        background-color: #c97e0de9;
+        border: none;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+        border-radius: 5px;
+      }
+      .button:hover {
+        background-color: #005f75;
+      }
+      .footer {
+        text-align: center;
+        padding: 20px;
+        background-color: #f2f2f2;
+        box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+        bottom: 0;
+        width: 100%;
+      }
+      @media only screen and (max-width: 768px) {
+        .header h1 {
+          font-size: 20px;
+          margin-left: -20px;
         }
-        .card {
-            border: 1px solid #ccc;
-            border-radius: 8px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            margin: 10px;
-            padding: 20px;
-            width: 200px;
-            text-align: center;
+        .footer {
+          padding: 5px;
         }
-        .card img {
-            width: 100%;
-            height: auto;
-            border-radius: 5px;
-        }
-        .button {
-            background-color: #c97e0de9;
-            border: none;
-            color: white;
-            padding: 10px 20px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            margin: 4px 2px;
-            cursor: pointer;
-            border-radius: 5px;
-        }
-        .button:hover {
-            background-color: #005f75;
-        }
+      }
     </style>
-</head>
-<body>
-    <script>
-        function createCard(card) {
-            return `
-                <div class="card">
-                    <h2>${card.name}</h2>
-                    <img src="${card.image}" alt="${card.name}">
-                    <p>${card.constituency}</p>
-                    <p>Business to boycott </p>
-                    <p>${card.business}</p>
-                    <a class="button" href="https://x.com/${card.twitter}">Twitter</a>
-                    <a class="button" href="Tel:${card.phonenumber}">Call</a>
-                </div>
-            `;
-        }
-    
+  </head>
+  <body>
+    <div class="header">
+      <img src="headerimage.png" alt="Header Image" />
+      <h1>Wall of Shame Finance Bill 2024</h1>
+    </div>
 
-        document.addEventListener('DOMContentLoaded', () => {
-            fetch('data.json')
-                .then(response => response.json())
-                .then(data => {
-                    const container = document.body;
-                    data.forEach(card => {
-                        container.innerHTML += createCard(card);
-                    });
-                })
-                .catch(error => console.error('Error fetching data:', error));
-        });
+    <div class="content"></div>
+
+    <div class="footer">
+      <p>&copy; 2024 Wall of Shame Finance Bill. All rights reserved.</p>
+      <h3>#REJECTFINANCEBILL2024</h3>
+    </div>
+
+    <script>
+      function createCard(card) {
+        return `
+      <div class="card">
+        <h2>${card.name}</h2>
+        <img src="${card.image}" alt="${card.name}">
+        <p>${card.constituency}</p>
+        <p>Business to boycott</p>
+        <p>${card.business}</p>
+        <a class="button" href="https://x.com/${card.twitter}">Twitter</a>
+        <a class="button" href="Tel:${card.phonenumber}">Call</a>
+      </div>
+    `;
+      }
+
+      document.addEventListener("DOMContentLoaded", () => {
+        fetch("data.json")
+          .then((response) => response.json())
+          .then((data) => {
+            const container = document.querySelector(".content");
+            data.forEach((card) => {
+              container.innerHTML += createCard(card);
+            });
+          })
+          .catch((error) => console.error("Error fetching data:", error));
+      });
     </script>
-</body>
+  </body>
 </html>
