@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="upgrade-insecure-requests"
+    />
     <title>Wall of Shame Finance Bill 2024</title>
     <style>
       @import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap");
@@ -46,6 +48,7 @@
         justify-content: center;
         padding: 20px;
       }
+
       .card {
         border: 1px solid #ccc;
         border-radius: 8px;
@@ -54,28 +57,79 @@
         padding: 20px;
         width: 200px;
         text-align: center;
+        position: relative;
       }
       .card img {
         width: 100%;
         height: auto;
         border-radius: 5px;
       }
-      .button {
-        background-color: #c97e0de9;
-        border: none;
-        color: white;
-        padding: 10px 20px;
-        text-align: center;
+      .card svg {
+        height: 1rem;
+        width: 1rem;
+      }
+
+      .businesses {
+        text-align: start;
+      }
+      .businesses h4 {
+        margin-bottom: 0;
+      }
+      .businesses ul {
+        margin-top: 0;
+        padding-left: 16px;
+      }
+
+      .card-button {
         text-decoration: none;
-        display: inline-block;
         font-size: 16px;
         margin: 4px 2px;
         cursor: pointer;
         border-radius: 5px;
+        display: grid;
+        grid-template-columns: 1rem auto;
+        align-items: center;
+        gap: 4px;
+        background-color: transparent;
+        color: #000;
+        border: 1px solid currentColor;
+        padding: 4px 8px;
       }
-      .button:hover {
-        background-color: #005f75;
+      .card-button:hover {
+        background-color: #000;
+        color: #fff;
       }
+      .card-button > span {
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        text-align: start;
+      }
+      .card-twitter:hover {
+        background-color: #000;
+        color: #fff;
+      }
+      .card-phone:hover {
+        background-color: #c97e0de9;
+        color: #fff;
+      }
+
+      .card > .contribute {
+        cursor: pointer;
+        border-radius: 5px;
+        display: grid;
+        grid-template-columns: 1rem auto;
+        justify-content: center;
+        align-items: center;
+        gap: 4px;
+        bottom: 0;
+        text-decoration: none;
+        margin-top: 1rem;
+        text-transform: uppercase;
+        font-size: 0.8rem;
+        color: #0046cc;
+      }
+
       .footer {
         text-align: center;
         padding: 20px;
@@ -107,20 +161,99 @@
       <p>&copy; 2024 Wall of Shame Finance Bill. All rights reserved.</p>
       <h3>#REJECTFINANCEBILL2024</h3>
     </div>
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="24"
+      height="24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      class="icon icon-tabler icons-tabler-outline icon-tabler-brand-x"
+    >
+      <path d="M0 0h24v24H0z" stroke="none" />
+      <path d="m4 4 12 16h4L8 4zM4 20l7-7m2-2 7-7" />
+    </svg>
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="24"
+      height="24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      class="icon icon-tabler icons-tabler-outline icon-tabler-brand-x"
+    >
+      <path d="M0 0h24v24H0z" stroke="none" />
+      <path d="m4 4 11.733 16H20L8.267 4zM4 20l6.768-6.768m2.46-2.46L20 4" />
+    </svg>
 
     <script>
       function createCard(card) {
+        const twitterSvg = `<svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-x"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4l11.733 16h4.267l-11.733 -16z" /><path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772" /></svg>`;
+        const phoneSvg = `<svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-phone"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M5 4h4l2 5l-2.5 1.5a11 11 0 0 0 5 5l1.5 -2.5l5 2v4a2 2 0 0 1 -2 2a16 16 0 0 1 -15 -15a2 2 0 0 1 2 -2" /></svg>`;
+        const editSvg = `<svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-edit"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M7 7h-1a2 2 0 0 0 -2 2v9a2 2 0 0 0 2 2h9a2 2 0 0 0 2 -2v-1" /><path d="M20.385 6.585a2.1 2.1 0 0 0 -2.97 -2.97l-8.415 8.385v3h3l8.385 -8.415z" /><path d="M16 5l3 3" /></svg>`;
+
+        const businesses = Array.isArray(card.business)
+          ? card.business
+          : [card.business];
+
+        const nameElm = `<h2 class='card-name' >${card.name}</h2>`;
+        const imageElm = `<img class='card-img' src="${card.image}" alt="${card.name}">`;
+        const officeElm = `<p class='card-office' >${card.constituency}</p>`;
+        const businessesElm = `
+          <div class='businesses' >
+            <h4>Business to boycott</h4>
+            <ul>
+              ${
+                card.business
+                  ? businesses.map((business) => `<li>${card.business}</li>`)
+                  : "--"
+              }
+            </ul>
+          </div>
+          `;
+        const twitterElm = `
+          <a class="card-twitter card-button" target='__blank' href="https://x.com/${
+            card.twitter
+          }">
+            ${twitterSvg}
+            <span>
+              ${card.twitter || "--"}
+            </span>
+          </a>
+          `;
+        const phoneElm = `<a class="card-phone card-button" href="Tel:${
+          card.phonenumber
+        }">
+            ${phoneSvg}
+            <span>
+              ${card.phonenumber || "--"}
+            </span>
+          </a>`;
+
+        const contributeElm = `<a class='contribute' href='https://github.com/iamukasa/wallofshame.github.io/issues/new' target='__blank' >
+            ${editSvg}
+            <span>
+              Contribute
+            </span>
+          </a>`;
+
         return `
-      <div class="card">
-        <h2>${card.name}</h2>
-        <img src="${card.image}" alt="${card.name}">
-        <p>${card.constituency}</p>
-        <p>Business to boycott</p>
-        <p>${card.business}</p>
-        <a class="button" href="https://x.com/${card.twitter}">Twitter</a>
-        <a class="button" href="Tel:${card.phonenumber}">Call</a>
-      </div>
-    `;
+          <div class="card">
+            <div class="card-inner" >
+              ${nameElm}
+              ${imageElm}
+              ${officeElm}
+              ${businessesElm}
+              ${twitterElm}
+              ${phoneElm}
+            </div>
+            ${contributeElm}
+          </div>
+        `;
       }
 
       document.addEventListener("DOMContentLoaded", () => {
