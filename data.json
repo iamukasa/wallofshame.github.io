@@ -177,7 +177,7 @@
         "constituency": "Kitui South",
         "business": "",
         "twitter": "@RachaelNyamai",
-        "phonenumber": ""
+        "phonenumber": "+254720451803"
     },
     {
         "id": 21,
@@ -537,7 +537,7 @@
         "constituency": "BARINGO NORTH",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "+254722561702"
     },
     {
         "id": 61,
@@ -897,7 +897,7 @@
         "constituency": "KIBWEZI WEST",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "+254721668231"
     },
     {
         "id": 101,
@@ -1590,7 +1590,7 @@
         "constituency": "SOY",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "+254720788012"
     },
     {
         "id": 180,
@@ -1644,7 +1644,7 @@
         "constituency": "TIGANIA EAST",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "0722741731"
     },
     {
         "id": 187,
@@ -1743,7 +1743,7 @@
         "constituency": "WEBUYE EAST",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "+254724844963 "
     },
     {
         "id": 198,
@@ -1752,7 +1752,7 @@
         "constituency": "WEBUYE WEST",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "+254723432321"
     },
     {
         "id": 199,
@@ -1852,5 +1852,45 @@
          "business":"",
         "twitter": "",
         "phonenumber": ""
+    },
+    {
+        "name": "Sloya Clement Logova",
+        "image": "img/ClementSloya.jpg",
+        "constituency": "Sabatia",
+        "business": "",
+        "twitter": "",
+        "phonenumber": "0716624205"
+    },
+    {
+        "name": "Mawathe",
+        "image": "img/JuliusMwathe.png",
+        "constituency": "Embakasi South",
+        "business": "",
+        "twitter": "",
+        "phonenumber": "0706000210"
+    },
+    {
+        "name": "PK Salasya",
+        "image": "img/PKSalasya.jpg",
+        "constituency": "Mumias East",
+        "business": "",
+        "twitter": "",
+        "phonenumber": "0714110769"
+    },
+    {
+        "name": "Patrick Simiyu",
+        "image": "img/PatrickSimiyu.png",
+        "constituency": "Cherangany",
+        "business": "",
+        "twitter": "",
+        "phonenumber": "0724814888"
+    },
+    {
+        "name": "Jessica Mbalu",
+        "image": "img/JessicaMbalu.jpg",
+        "constituency": "Kibwezi East",
+        "business": "",
+        "twitter": "@Jessymbalu",
+        "phonenumber": "0722869530"
     }
 ]
