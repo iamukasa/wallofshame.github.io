@@ -275,7 +275,7 @@
         "image": "img/MarthaWangari.jpeg",
         "constituency": "Gilgil",
         "business": "",
-        "twitter": "",
+        "twitter": "@HonWangari",
         "phonenumber": "+254720205762"
     },
     {
@@ -294,7 +294,7 @@
         "constituency": "Maragua",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "+254722262543"
     },
     {
         "id": 34,
@@ -312,7 +312,7 @@
         "constituency": "Eldas",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "+254722301930"
     },
     {
         "id": 36,
@@ -347,7 +347,7 @@
         "image": "img/AliAbdiAli.jpeg",
         "constituency": "Ijara",
         "business": "",
-        "twitter": "",
+        "twitter": "@HonHajisheikhow",
         "phonenumber": ""
     },
     {
@@ -365,7 +365,7 @@
         "image": "img/AminaDika.jpeg",
         "constituency": "Tana River",
         "business": "",
-        "twitter": "",
+        "twitter": "@AminaDika_",
         "phonenumber": ""
     },
     {
@@ -393,7 +393,7 @@
         "constituency": "Dadaab",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "+254202221291"
     },
     {
         "id": 45,
@@ -402,7 +402,7 @@
         "constituency": "Garsen",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "+254721398361"
     },
     {
         "id": 46,
@@ -411,7 +411,7 @@
         "constituency": "Manderra South",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "@abduhar"
     },
     {
         "id": 47,
@@ -438,7 +438,7 @@
         "constituency": "Lagdera",
         "business": "",
         "twitter": "",
-        "phonenumber": ""
+        "phonenumber": "+254722409914"
     },
     {
         "id": 50,
@@ -1799,6 +1799,7 @@
         "twitter": "",
         "phonenumber": ""
     },
+    
     {
         "id": 54,
         "name": "Kipngor Reuben Kiborek",
@@ -1832,7 +1833,7 @@
         "image": "img/marianneKitany.png",
         "constituency": "Aldai",
          "business":"",
-        "twitter": "",
+        "twitter": "@MarianneKitany",
         "phonenumber": ""
     },
     {
@@ -1850,10 +1851,11 @@
         "image": "img/JoshuaKandie.jpeg",
         "constituency": "Baringo central",
          "business":"",
-        "twitter": "",
+        "twitter": "@kandie_joshua",
         "phonenumber": ""
     },
     {
+        "id": 60,
         "name": "Sloya Clement Logova",
         "image": "img/ClementSloya.jpg",
         "constituency": "Sabatia",
@@ -1862,7 +1864,7 @@
         "phonenumber": "0716624205"
     },
     {
-        "name": "Mawathe",
+        "name": "Julius Mawathe",
         "image": "img/JuliusMwathe.png",
         "constituency": "Embakasi South",
         "business": "",
@@ -1874,7 +1876,7 @@
         "image": "img/PKSalasya.jpg",
         "constituency": "Mumias East",
         "business": "",
-        "twitter": "",
+        "twitter": "@PK_SalasyaMP",
         "phonenumber": "0714110769"
     },
     {
@@ -1882,7 +1884,7 @@
         "image": "img/PatrickSimiyu.png",
         "constituency": "Cherangany",
         "business": "",
-        "twitter": "",
+        "twitter": "@HONPATRICK_B",
         "phonenumber": "0724814888"
     },
     {
@@ -1890,7 +1892,7 @@
         "image": "img/JessicaMbalu.jpg",
         "constituency": "Kibwezi East",
         "business": "",
-        "twitter": "@Jessymbalu",
+        "twitter": "@jessmbalu",
         "phonenumber": "0722869530"
     }
 ]
